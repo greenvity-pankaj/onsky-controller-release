@@ -1,0 +1,26 @@
+/connect/response,/connect
+/ack,/ack/response
+/dev,/dev/response
+/dev/rename,/dev/response
+/zone,/zone/response
+/zone/create,/zone/create/response
+/zone/zd,/zone/zd/response
+/zone/secmode, /zone/secmode/response
+/zone/active, /zone/active/response
+/zone/add,/zone/add/response
+/zone/removedev,/zone/removedev/response
+/zone/delete,/zone/delete/response
+/zone/rename,/zone/rename/response
+/zone/energysave,/zone/energysave/response
+/zone/operation,/zone/operation/response
+/listdev,/listdev/response
+/schedule,/schedule/response
+/schedule/abort,/schedule/response
+/upgrade,/upgrade/response
+,/upgrade/status
+/gateway,/gateway/response 
+/gateway/reboot,/gateway/reboot/response
+/install,/install/response
+,/inactive
+/dev/count,/dev/count/response
+/dev/range,/dev/range/response
