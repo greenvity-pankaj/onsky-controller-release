@@ -1,1 +1,0 @@
-ethertype = 0x88e2

@@ -1,2 +1,0 @@
-ethertype = 0x88e2
-periodic_status_update_interval = 10

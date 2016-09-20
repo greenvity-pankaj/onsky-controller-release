@@ -1,7 +1,0 @@
-Device Database
-IeeeAddress,NwkAddress,Status,MfgId,EP_Count,ParentIeeeAddress,CapInfo
-        00:0D:6F:00:03:29:80:4F , 0x02D6 , 0x00, 0xC2DF , 1, 00:12:4B:00:04:42:06:B5, 0x05
-        00:17:88:01:00:D5:EF:DB , 0xE2C1 , 0x00, 0x1014 , 1, 00:12:4B:00:02:5B:83:55, 0x31
-        00:0D:6F:00:04:2B:63:E5 , 0x5702 , 0x00, 0xC2DF , 1, 00:12:4B:00:02:5B:83:55, 0x31
-        00:0D:6F:00:03:BF:EE:0B , 0x5DA6 , 0x00, 0xC2DF , 1, 00:0D:6F:00:04:2B:63:E5, 0x31
-        00:17:88:01:00:D3:85:B1 , 0x9A8A , 0x00, 0x100B , 1, 00:12:4B:00:02:5B:83:55, 0x31

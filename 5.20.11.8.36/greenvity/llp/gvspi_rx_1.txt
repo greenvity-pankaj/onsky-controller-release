@@ -1,8 +1,0 @@
-gvspi     Link encap:Ethernet  HWaddr 84:86:F3:00:02:08  
-          inet addr:10.0.1.1  Bcast:10.0.255.255  Mask:255.255.0.0
-          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:60 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:65 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:1000 
-          RX bytes:928 (928.0 B)  TX bytes:2519 (2.4 KiB)
-
