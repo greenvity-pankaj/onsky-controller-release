@@ -1,4 +1,4 @@
-macAddress = 84:86:F3:00:32:12
+macAddress = 84:86:F3:00:32:12           
 lineMode = DC
 dcFreq = 50
 txPowerMode = 255
